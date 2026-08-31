@@ -10,6 +10,11 @@
   <a href="https://github.com/migueltejeda0713"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdyZXcycm12dWZtaWJjanpsNmNlcThuN2h5aXhycmdxaWFpMzVncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gifI" width="150" /></p>
+
+
+
 ---
 
 ## Sobre mí
