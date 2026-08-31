@@ -1,5 +1,10 @@
-<h1 align="center">Miguel Tejeda</h1>
-<p align="center"><i>Construyo sistemas, no solo pantallas.</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2496ED&height=180&section=header&text=Miguel%20Tejeda&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2496ED&center=true&vCenter=true&width=460&lines=Backend+Developer;Go+%7C+TypeScript+%7C+Angular;Construyendo+Qmed-Recipe" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/migueltejeda0713"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
