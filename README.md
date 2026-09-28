@@ -6,6 +6,8 @@
   3. Cambia el número de  width="..."  para ajustar el tamaño.
   4. Tamaño ideal: 200–300 px de ancho. Peso máximo: 5 MB por GIF.
   5. Borra los GIFs que no uses.
+  6. Íconos de los títulos: reemplaza ID_ICONO_1 e ID_ICONO_2.
+     Usa GIFs cuadrados o stickers con fondo transparente. Ancho: 32 px.
   Color principal: 2496ED (busca y reemplaza).
   ============================================================ -->
 
@@ -30,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
-## 👋 Sobre mí
+## <img src="https://media.giphy.com/media/ID_ICONO_1/giphy.gif" width="32" align="center" alt="" /> Sobre mí
 
 <!-- GIF 2: texto a la izquierda, GIF a la derecha. Cambia el orden si quieres. -->
 <table>
@@ -73,7 +75,7 @@ func main() {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
-## 🛠️ Con qué trabajo
+## <img src="https://media.giphy.com/media/ID_ICONO_2/giphy.gif" width="32" align="center" alt="" /> Con qué trabajo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,angular,docker,git,githubactions,linux,postgres&perline=8" alt="skills" />
