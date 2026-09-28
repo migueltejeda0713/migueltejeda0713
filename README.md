@@ -113,8 +113,6 @@ Cada receta que emite el sistema respeta los lineamientos que establece el **Min
 
 <!-- GIF 3: trío de GIFs en fila. Borra los que no uses. -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/JJY6gPxWR3YAAAAC/bread.gif" width="200" alt="pan" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif" width="340" alt="hacking" />
 </p>
 
