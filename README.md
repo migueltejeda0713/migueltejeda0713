@@ -15,7 +15,7 @@
 
 <!-- GIF 1: centrado bajo el header. Ajusta width. -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdyZXcycm12dWZtaWJjanpsNmNlcThuN2h5aXhycmdxaWFpMzVncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gif" width="220" alt="luffy" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdyZXcycm12dWZtaWJjanpsNmNlcThuN2h5aXhycmdxaWFpMzVncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gif" width="300" alt="luffy" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
-## <img src="https://media1.tenor.com/m/w1FolnOKZMwAAAAC/stare-picking-nose.gif" width="32" align="center" alt="" /> Sobre mí
+## <img src="https://media1.tenor.com/m/xafrt118nacAAAAC/gintoki-waving-anime.gif" width="90" align="center" alt="" /> Sobre mí
 
 <!-- GIF 2: texto a la izquierda, GIF a la derecha. Cambia el orden si quieres. -->
 <table>
@@ -42,8 +42,8 @@ Soy programador y desarrollador de software backend, enfocado en la administraci
 Me gusta la programación de bajo nivel. Y el pan. 🍞
 
 </td>
-    <td align="center" width="260">
-      <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAC/coding-typing.gif" width="220" alt="codigo" />
+    <td align="center" width="300">
+      <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAC/coding-typing.gif" width="280" alt="codigo" />
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@ func main() {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
-## <img src="https://media1.tenor.com/m/mjWYgxi6RS8AAAAC/lain-typing.gif" width="32" align="center" alt="" /> Con qué trabajo
+## <img src="https://media1.tenor.com/m/mjWYgxi6RS8AAAAC/lain-typing.gif" width="70" align="center" alt="" /> Con qué trabajo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,angular,docker,git,githubactions,linux,postgres&perline=8" alt="skills" />
@@ -113,9 +113,9 @@ Cada receta que emite el sistema respeta los lineamientos que establece el **Min
 
 <!-- GIF 3: trío de GIFs en fila. Borra los que no uses. -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/JJY6gPxWR3YAAAAC/bread.gif" width="140" alt="pan" />
+  <img src="https://media1.tenor.com/m/JJY6gPxWR3YAAAAC/bread.gif" width="200" alt="pan" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" width="220" alt="programando" />
+  <img src="https://media1.tenor.com/m/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif" width="340" alt="hacking" />
 </p>
 
 <p align="center"><sub>Si algo de esto te suena a un problema que también tienes, hablamos.</sub></p>
