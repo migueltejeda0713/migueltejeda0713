@@ -1,13 +1,11 @@
 <!-- ============================================================
   TUS GIFs — GUÍA RÁPIDA
-  1. Abre tu GIF en giphy.com. Copia el ID (el código al final del link).
-  2. Reemplaza ID_GIF_2, ID_GIF_3, ID_GIF_4, ID_GIF_5 por tus IDs.
-     Formato: https://media.giphy.com/media/TU_ID/giphy.gif
+  1. Todos los GIFs ya tienen link directo. No hay placeholders.
+  2. Para cambiar un GIF: clic derecho en tenor.com → "Copiar dirección de imagen".
+     El link debe empezar con media.tenor.com o media1.tenor.com y terminar en .gif.
   3. Cambia el número de  width="..."  para ajustar el tamaño.
   4. Tamaño ideal: 200–300 px de ancho. Peso máximo: 5 MB por GIF.
   5. Borra los GIFs que no uses.
-  6. Íconos de los títulos: reemplaza ID_ICONO_1 e ID_ICONO_2.
-     Usa GIFs cuadrados o stickers con fondo transparente. Ancho: 32 px.
   Color principal: 2496ED (busca y reemplaza).
   ============================================================ -->
 
@@ -32,7 +30,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
- <img src="https://media1.tenor.com/m/w1FolnOKZMwAAAAC/stare-picking-nose.gif" width="32" align="center" alt="" /> Sobre mí
+## <img src="https://media1.tenor.com/m/w1FolnOKZMwAAAAC/stare-picking-nose.gif" width="32" align="center" alt="" /> Sobre mí
 
 <!-- GIF 2: texto a la izquierda, GIF a la derecha. Cambia el orden si quieres. -->
 <table>
@@ -45,7 +43,7 @@ Me gusta la programación de bajo nivel. Y el pan. 🍞
 
 </td>
     <td align="center" width="260">
-      <img src="https://media.giphy.com/media/ID_GIF_2/giphy.gif" width="240" alt="codigo" />
+      <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAC/coding-typing.gif" width="220" alt="codigo" />
     </td>
   </tr>
 </table>
@@ -75,7 +73,7 @@ func main() {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/ID_ICONO_2/giphy.gif" width="32" align="center" alt="" /> Con qué trabajo
+## <img src="https://media1.tenor.com/m/mjWYgxi6RS8AAAAC/lain-typing.gif" width="32" align="center" alt="" /> Con qué trabajo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,angular,docker,git,githubactions,linux,postgres&perline=8" alt="skills" />
@@ -115,11 +113,9 @@ Cada receta que emite el sistema respeta los lineamientos que establece el **Min
 
 <!-- GIF 3: trío de GIFs en fila. Borra los que no uses. -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ID_GIF_3/giphy.gif" width="180" alt="pan" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/ID_GIF_4/giphy.gif" width="180" alt="gif 4" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/ID_GIF_5/giphy.gif" width="180" alt="gif 5" />
+  <img src="https://media1.tenor.com/m/JJY6gPxWR3YAAAAC/bread.gif" width="140" alt="pan" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" width="220" alt="programando" />
 </p>
 
 <p align="center"><sub>Si algo de esto te suena a un problema que también tienes, hablamos.</sub></p>
