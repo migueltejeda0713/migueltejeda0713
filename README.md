@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
- <img src="https://tenor.com/blxIG.gif" width="32" align="center" alt="" /> Sobre mí
+ <img src="https://media1.tenor.com/m/w1FolnOKZMwAAAAC/stare-picking-nose.gif" width="32" align="center" alt="" /> Sobre mí
 
 <!-- GIF 2: texto a la izquierda, GIF a la derecha. Cambia el orden si quieres. -->
 <table>
