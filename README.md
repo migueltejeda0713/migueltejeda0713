@@ -1,13 +1,21 @@
 <!-- ============================================================
-  PERSONALIZACIÓN RÁPIDA
-  - Color principal: 2496ED  (busca y reemplaza por el que quieras)
-  - Usuario GitHub: migueltejeda0713
-  - Temas de stats: dracula, tokyonight, radical, synthwave, gruvbox
-  - Animaciones del header: fadeIn, twinkling, blinking, scaleIn
+  TUS GIFs — GUÍA RÁPIDA
+  1. Abre tu GIF en giphy.com. Copia el ID (el código al final del link).
+  2. Reemplaza ID_GIF_2, ID_GIF_3, ID_GIF_4, ID_GIF_5 por tus IDs.
+     Formato: https://media.giphy.com/media/TU_ID/giphy.gif
+  3. Cambia el número de  width="..."  para ajustar el tamaño.
+  4. Tamaño ideal: 200–300 px de ancho. Peso máximo: 5 MB por GIF.
+  5. Borra los GIFs que no uses.
+  Color principal: 2496ED (busca y reemplaza).
   ============================================================ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=230&section=header&text=Miguel%20Tejeda&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Bajo%20nivel%20%E2%80%A2%20Pan&descSize=18&descAlignY=60" alt="header" />
+</p>
+
+<!-- GIF 1: centrado bajo el header. Ajusta width. -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdyZXcycm12dWZtaWJjanpsNmNlcThuN2h5aXhycmdxaWFpMzVncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gif" width="220" alt="luffy" />
 </p>
 
 <p align="center">
@@ -20,19 +28,25 @@
   <img src="https://img.shields.io/badge/Rep%C3%BAblica%20Dominicana-%F0%9F%87%A9%F0%9F%87%B4-0d1117?style=for-the-badge" alt="RD" />
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdyZXcycm12dWZtaWJjanpsNmNlcThuN2h5aXhycmdxaWFpMzVncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gif" width="150" alt="gif" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
 ## 👋 Sobre mí
 
-<img align="right" width="230" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coder.gif" alt="coding gif" />
+<!-- GIF 2: texto a la izquierda, GIF a la derecha. Cambia el orden si quieres. -->
+<table>
+  <tr>
+    <td valign="middle">
 
 Soy programador y desarrollador de software backend, enfocado en la administración de software de calidad. Un año de experiencia en el mundo laboral, asegurándome de que el código cumpla con los requerimientos establecidos — sin atajos que después alguien tiene que pagar.
 
 Me gusta la programación de bajo nivel. Y el pan. 🍞
+
+</td>
+    <td align="center" width="260">
+      <img src="https://media.giphy.com/media/ID_GIF_2/giphy.gif" width="240" alt="codigo" />
+    </td>
+  </tr>
+</table>
 
 ```go
 package main
@@ -40,10 +54,10 @@ package main
 import "fmt"
 
 type Dev struct {
-	Nombre  string
-	Foco    []string
-	Cafe    bool
-	Pan     bool
+	Nombre string
+	Foco   []string
+	Cafe   bool
+	Pan    bool
 }
 
 func main() {
@@ -56,8 +70,6 @@ func main() {
 	fmt.Printf("%+v\n", miguel)
 }
 ```
-
-<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
@@ -99,22 +111,14 @@ Cada receta que emite el sistema respeta los lineamientos que establece el **Min
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
-## 📊 Stats
-
+<!-- GIF 3: trío de GIFs en fila. Borra los que no uses. -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=migueltejeda0713&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueltejeda0713&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="langs" />
+  <img src="https://media.giphy.com/media/ID_GIF_3/giphy.gif" width="180" alt="pan" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/ID_GIF_4/giphy.gif" width="180" alt="gif 4" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/ID_GIF_5/giphy.gif" width="180" alt="gif 5" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=migueltejeda0713&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueltejeda0713&theme=tokyo-night&hide_border=true&area=true&color=2496ED&line=2496ED&point=ffffff" alt="activity graph" width="95%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="divider" />
 
 <p align="center"><sub>Si algo de esto te suena a un problema que también tienes, hablamos.</sub></p>
 
